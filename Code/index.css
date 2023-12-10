@@ -66,6 +66,16 @@ body {
 
 }
 
+#nav-bar-logo-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+#nav
+
 #nav-bar ul li a:hover{
     color: rgb(99, 197, 148)
 
@@ -753,6 +763,13 @@ body {
         opacity: 0;
         visibility: hidden;
         pointer-events: none;
+    }
+
+    #nav-bar-logo-icons{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
     }
 
 
